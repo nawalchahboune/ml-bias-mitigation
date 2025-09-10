@@ -1,0 +1,11 @@
+fairlearn
+dalex
+scikit-learn
+pandas
+aif360
+plotly
+seaborn
+matplotlib
+numpy
+notebook
+jupyterlab
